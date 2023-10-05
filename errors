@@ -1,0 +1,29 @@
+2)LOGIN
+Trying to find linkText=LogOut...Failed
+
+3)AddEntry1
+Trying to find css=.datarow:nth-child(2) .accountname...Failed
+
+4)AddEntry2
+Trying to find css=.datarow:nth-child(3) .accountname...Failed
+
+6)ModifyEntry1
+Successo ma non modifica l'entry corretta
+
+6)ModifyEntry2
+Trying to find css=.datarow:nth-child(3) .glyphicon-wrench...Failed
+
+7)ExportCSV
+Trying to find linkText=Export CSV...ailed
+
+
+8)DeleteEntry1
+Failed: Actual value "Google" did not match "Youtube"
+Ha eliminato un'altra entry
+
+9)DeleteEntry2
+Trying to find css=.datarow:nth-child(2) .glyphicon-wrench...Failed
+
+10)Import
+Trying to find linkText=Import...Failed
+
