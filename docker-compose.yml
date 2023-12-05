@@ -3,7 +3,6 @@ services:
         container_name: php-apache
         hostname: localhost
         build: .
-        image: php:7.2-apache
         links:
             - db
         volumes:
